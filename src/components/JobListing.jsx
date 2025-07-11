@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import { FaMapMarker } from 'react-icons/fa'
 
@@ -47,12 +48,12 @@ const JobListing = ({ job }) => {
 
           </div>
 
-          <a
-            href={`/job/${job.id}`}
+          <Link
+            to={`/job/${job.id}`}
             className="h-[36px] bg-neutral-900 text-neutral-100 
             border-none px-4 py-2 rounded-lg text-center text-sm font-bold">
             Read More
-          </a>
+          </Link>
 
         </div>
 
