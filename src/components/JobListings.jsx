@@ -20,11 +20,9 @@ const JobListings = () => {
 
           {recentJobs.map((job) => (
 
-            <JobListing key={ job.id } job={job} />
+            <JobListing key={ job.id } job={ job } />
 
           )) }
-
-            
 
         </div>
 

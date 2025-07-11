@@ -14,7 +14,7 @@ const HomeCards = () => {
             <h2 className="text-2xl text-neutral-100 font-bold">For Employers</h2>
 
             <p className="text-neutral-100 mt-2 mb-4">
-              Browse our React jobs and start your career today
+              List your job to find the perfect applicant for the role
             </p>
 
             <a
@@ -32,7 +32,7 @@ const HomeCards = () => {
             <h2 className="text-2xl font-bold text-neutral-900">For Applicants</h2>
 
             <p className="mt-2 mb-4 text-neutral-900">
-              List your job to find the perfect developer for the role
+              Browse our IT-related jobs and start your career today
             </p>
 
             <a

@@ -1,4 +1,5 @@
 import React from 'react'
+import logo from '../assets/images/findit-icon.png';
 
 const Navbar = () => {
 
@@ -17,20 +18,16 @@ const Navbar = () => {
               <a className="flex flex-shrink-0 items-center mr-4" href="/index.html">
 
                 <img
-                  className="h-10 w-auto"
-                  src="images/logo.png"
+                  className="w-32"
+
+                  src={ logo }
                   alt="React Jobs"
                 />
-
-                <span className="hidden md:block text-neutral-100 text-2xl font-bold ml-2">
-                  FindIT
-                </span>
-
               </a>
 
-              <div className="md:ml-auto">
+              <div className="md:ml-auto flex">
 
-                <div className="flex space-x-2">
+                <div className="flex space-x-2 items-center justify-center">
 
                   <a
                     href="/index.html"

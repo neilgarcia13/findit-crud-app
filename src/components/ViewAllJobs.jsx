@@ -7,7 +7,8 @@ const ViewAllJobs = () => {
 
       <a
         href="/jobs"
-        className="block bg-black text-white text-center py-4 px-6 rounded-xl hover:bg-gray-700"
+        className="block bg-black text-white text-center py-4 px-6 
+        rounded-xl transition duration-500 hover:bg-neutral-600"
         >View All Jobs
       </a>
         
