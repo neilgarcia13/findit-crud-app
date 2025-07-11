@@ -16,7 +16,7 @@ const Navbar = () => {
             <div className="flex flex-1 items-center justify-center md:items-stretch md:justify-start">
               
               {/*Logo*/}
-              <Link className="flex flex-shrink-0 items-center mr-4" to="/index.html">
+              <Link className="flex flex-shrink-0 items-center mr-4" to="/">
 
                 <img
                   className="w-32"
