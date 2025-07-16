@@ -21,8 +21,8 @@ const JobListing = ({ job }) => {
 
         <div className="mb-6">
 
-          <div className="text-gray-600 my-2">{job.title}</div>
-          <h3 className="text-xl font-bold">{job.type}</h3>
+          <div className="text-gray-600 my-2">{job.type}</div>
+          <h3 className="text-xl font-bold">{job.title}</h3>
           
         </div>
 
@@ -49,7 +49,7 @@ const JobListing = ({ job }) => {
           </div>
 
           <Link
-            to={`/job/${job.id}`}
+            to={`/jobs/${job.id}`}
             className="h-[36px] bg-neutral-900 text-neutral-100 
             border-none px-4 py-2 rounded-lg text-center text-sm font-bold">
             Read More
