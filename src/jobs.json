@@ -83,34 +83,6 @@
         "contactEmail": "internships@securenet.ph",
         "contactPhone": "+63 952 8877 6655"
       }
-    },
-    {
-      "id": "b229",
-      "title": "PLDC",
-      "type": "Full-Time",
-      "description": "INTERNET BULOK",
-      "location": "Philippines",
-      "salary": "Under PHP 50K",
-      "company": {
-        "name": "PLDC",
-        "description": "nambuburaot",
-        "contactEmail": "andrei_kylegarcia@yahoo.com",
-        "contactPhone": "0947743653"
-      }
-    },
-    {
-      "id": "394a",
-      "title": "PLDC",
-      "type": "Full-Time",
-      "description": "INTERNET BULOK",
-      "location": "Philippines",
-      "salary": "Under PHP 50K",
-      "company": {
-        "name": "PLDC",
-        "description": "nambuburaot",
-        "contactEmail": "andrei_kylegarcia@yahoo.com",
-        "contactPhone": "0947743653"
-      }
     }
   ]
 }

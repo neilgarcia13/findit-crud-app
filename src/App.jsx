@@ -33,7 +33,13 @@ const App = () => {
   //Delete Job
   const deleteJob = async (id) => {
 
-    console.log('delete', id)
+    const response = await fetch(`/api/jobs/${id}`, {
+
+      method: 'DELETE',
+
+    });
+
+    return;
 
   }
 
