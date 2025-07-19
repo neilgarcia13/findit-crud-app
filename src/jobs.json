@@ -1,88 +1,116 @@
-{ "jobs": 
-  [
+{
+  "jobs": [
     {
-    "id": "1",
-    "title": "Junior Web Developer",
-    "type": "Full-time",
-    "description": "Responsible for building and maintaining company websites using HTML, CSS, and JavaScript.",
-    "location": "Makati City, Philippines",
-    "salary": "PHP 25,000 - 30,000",
-    "company": {
-      "name": "NextGen Web Solutions",
-      "description": "A startup company specializing in web-based solutions for small businesses.",
-      "contactEmail": "hr@nextgenweb.ph",
-      "contactPhone": "+63 917 555 1234"
+      "id": "1",
+      "title": "Junior Web Developer",
+      "type": "Full-time",
+      "description": "Responsible for building and maintaining company websites using HTML, CSS, and JavaScript.",
+      "location": "Makati City, Philippines",
+      "salary": "PHP 25,000 - 30,000",
+      "company": {
+        "name": "NextGen Web Solutions",
+        "description": "A startup company specializing in web-based solutions for small businesses.",
+        "contactEmail": "hr@nextgenweb.ph",
+        "contactPhone": "+63 917 555 1234"
+      }
+    },
+    {
+      "id": "2",
+      "title": "IT Support Specialist",
+      "type": "Part-time",
+      "description": "Provide technical assistance and support for incoming queries and issues related to computer systems.",
+      "location": "Cebu City, Philippines",
+      "salary": "PHP 150/hour",
+      "company": {
+        "name": "TechAid IT Services",
+        "description": "An outsourced IT support provider for SMEs and home-based businesses.",
+        "contactEmail": "support@techaid.ph",
+        "contactPhone": "+63 932 223 1122"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Mobile App Developer (Android)",
+      "type": "Full-time",
+      "description": "Develop and maintain Android applications using Kotlin and Java.",
+      "location": "Remote (Philippines-based)",
+      "salary": "PHP 40,000 - 50,000",
+      "company": {
+        "name": "AppLab Digital",
+        "description": "A mobile development agency creating scalable apps for global clients.",
+        "contactEmail": "careers@applabdigital.com",
+        "contactPhone": "+63 998 765 4321"
+      }
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Designer",
+      "type": "Contract",
+      "description": "Design wireframes, mockups, and user interfaces for web and mobile platforms.",
+      "location": "Quezon City, Philippines",
+      "salary": "PHP 35,000/month (contract-based)",
+      "company": {
+        "name": "PixelWave Studio",
+        "description": "A creative design agency focused on crafting intuitive user experiences.",
+        "contactEmail": "design@pixelwave.ph",
+        "contactPhone": "+63 982 8800 3344"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Data Analyst",
+      "type": "Full-time",
+      "description": "Interpret data and turn it into actionable insights using SQL and Power BI.",
+      "location": "Davao City, Philippines",
+      "salary": "PHP 45,000 - 55,000",
+      "company": {
+        "name": "InsightCore Analytics",
+        "description": "A data analytics consultancy helping businesses drive decisions through data.",
+        "contactEmail": "jobs@insightcore.ph",
+        "contactPhone": "+63 982 221 9988"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Cybersecurity Intern",
+      "type": "Internship",
+      "description": "Assist in monitoring network traffic, auditing security policies, and writing reports.",
+      "location": "Taguig City, Philippines",
+      "salary": "PHP 10,000/month (allowance)",
+      "company": {
+        "name": "SecureNet Technologies",
+        "description": "An IT security firm offering cybersecurity solutions for enterprises.",
+        "contactEmail": "internships@securenet.ph",
+        "contactPhone": "+63 952 8877 6655"
+      }
+    },
+    {
+      "id": "b229",
+      "title": "PLDC",
+      "type": "Full-Time",
+      "description": "INTERNET BULOK",
+      "location": "Philippines",
+      "salary": "Under PHP 50K",
+      "company": {
+        "name": "PLDC",
+        "description": "nambuburaot",
+        "contactEmail": "andrei_kylegarcia@yahoo.com",
+        "contactPhone": "0947743653"
+      }
+    },
+    {
+      "id": "394a",
+      "title": "PLDC",
+      "type": "Full-Time",
+      "description": "INTERNET BULOK",
+      "location": "Philippines",
+      "salary": "Under PHP 50K",
+      "company": {
+        "name": "PLDC",
+        "description": "nambuburaot",
+        "contactEmail": "andrei_kylegarcia@yahoo.com",
+        "contactPhone": "0947743653"
+      }
     }
-  },
-  {
-    "id": "2",
-    "title": "IT Support Specialist",
-    "type": "Part-time",
-    "description": "Provide technical assistance and support for incoming queries and issues related to computer systems.",
-    "location": "Cebu City, Philippines",
-    "salary": "PHP 150/hour",
-    "company": {
-      "name": "TechAid IT Services",
-      "description": "An outsourced IT support provider for SMEs and home-based businesses.",
-      "contactEmail": "support@techaid.ph",
-      "contactPhone": "+63 932 223 1122"
-    }
-  },
-  {
-    "id": "3",
-    "title": "Mobile App Developer (Android)",
-    "type": "Full-time",
-    "description": "Develop and maintain Android applications using Kotlin and Java.",
-    "location": "Remote (Philippines-based)",
-    "salary": "PHP 40,000 - 50,000",
-    "company": {
-      "name": "AppLab Digital",
-      "description": "A mobile development agency creating scalable apps for global clients.",
-      "contactEmail": "careers@applabdigital.com",
-      "contactPhone": "+63 998 765 4321"
-    }
-  },
-  {
-    "id": "4",
-    "title": "UI/UX Designer",
-    "type": "Contract",
-    "description": "Design wireframes, mockups, and user interfaces for web and mobile platforms.",
-    "location": "Quezon City, Philippines",
-    "salary": "PHP 35,000/month (contract-based)",
-    "company": {
-      "name": "PixelWave Studio",
-      "description": "A creative design agency focused on crafting intuitive user experiences.",
-      "contactEmail": "design@pixelwave.ph",
-      "contactPhone": "+63 982 8800 3344"
-    }
-  },
-  {
-    "id": "5",
-    "title": "Data Analyst",
-    "type": "Full-time",
-    "description": "Interpret data and turn it into actionable insights using SQL and Power BI.",
-    "location": "Davao City, Philippines",
-    "salary": "PHP 45,000 - 55,000",
-    "company": {
-      "name": "InsightCore Analytics",
-      "description": "A data analytics consultancy helping businesses drive decisions through data.",
-      "contactEmail": "jobs@insightcore.ph",
-      "contactPhone": "+63 982 221 9988"
-    }
-  },
-  {
-    "id": "6",
-    "title": "Cybersecurity Intern",
-    "type": "Internship",
-    "description": "Assist in monitoring network traffic, auditing security policies, and writing reports.",
-    "location": "Taguig City, Philippines",
-    "salary": "PHP 10,000/month (allowance)",
-    "company": {
-      "name": "SecureNet Technologies",
-      "description": "An IT security firm offering cybersecurity solutions for enterprises.",
-      "contactEmail": "internships@securenet.ph",
-      "contactPhone": "+63 952 8877 6655"
-    }
-  }
   ]
 }
