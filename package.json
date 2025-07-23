@@ -1,6 +1,6 @@
 {
   "name": "findit-crud-app",
-  "homepage": "https://neilgarcia13.github.io/findit-crud-app",
+  "homepage": "/findit-crud-app",
   "private": true,
   "version": "0.0.0",
   "type": "module", 
@@ -9,8 +9,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "server": "json-server --watch src/jobs.json --port 6969"
   },
   "dependencies": {
